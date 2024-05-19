@@ -1,1 +1,2 @@
-# sms_spam_detector
+## sms_spam_detector
+# The purpose of this HW submission is to create a public facing app that can attempt to classify text messages as either spam or not spam. The code used various functions as well as the gradio interface to create this app.
